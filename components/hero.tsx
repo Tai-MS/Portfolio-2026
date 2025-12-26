@@ -17,7 +17,7 @@ export function Hero({ language }: HeroProps) {
         "Especializado en crear APIs robustas, escalables y seguras. Experiencia en Node.js, bases de datos y arquitectura de sistemas.",
       cta: "Ver Proyectos",
       downloadCV: "Descargar CV",
-      cvUrl: "/downloads/CV_TAIEL-SAGRETTI_ES.pdf",
+      cvUrl: "/downloads/CV_TAIEL-SAGRETTI-ES.pdf",
     },
     en: {
       greeting: "Hi, I am",
