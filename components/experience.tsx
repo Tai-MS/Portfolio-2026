@@ -13,14 +13,14 @@ export function Experience({ language }: ExperienceProps) {
       title: "Experiencia",
       experiences: [
         {
-          position: "Backend Junior",
+          position: "Backend Junior (Proyectos)",
           company: "No-Country",
-          period: "Febrero 2024 - Mayo 2024",
+          period: "Febrero 2024 - Julio 2024",
           description:
-            `Participé de 2 simulaciones laborales en No-Country, en ellas forme parte de dos equipos de desarrollo distintos con el objetivo de crear de cero sitios web.
-            En el primero (Febrero - Marzo) creamos una newsletter. 
-            En la segunda simulación (Abril - Mayo), con un nuevo equipo, desarrollamos un sitio web para contratar servicios para el hogar. 
-            En ambos casos, fui uno de los responsables del backend.`,
+            `Formé parte de dos proyectos de desarrollo web en No-Country, trabajando en equipos de desarrollo con metodologías ágiles para construir aplicaciones desde cero.
+          En el primer proyecto (febrero–marzo), participé en el desarrollo de una plataforma de newsletter.
+          En el segundo proyecto (abril–mayo), integré un nuevo equipo para desarrollar un sitio web orientado a la contratación de servicios para el hogar.
+          En ambos proyectos, fui uno de los responsables del desarrollo backend, colaborando en el diseño de APIs, lógica de negocio e integración con la base de datos.`,
           technologies: ["Node.js", "MySQL", "MongoDB", "Typescript", "Express", "Rest API"],
         },
       ],
@@ -29,14 +29,14 @@ export function Experience({ language }: ExperienceProps) {
       title: "Experience",
       experiences: [
         {
-          position: "Backend Junior",
+          position: "Backend Junior (Project-based)",
           company: "No-Country",
-          period: "February 2024 - May 2024",
+          period: "February 2024 - July 2024",
           description:
-            `Participated in two work simulation projects at No-Country, collaborating with different development teams to build web applications from scratch. 
-In the first project (February–March), we developed a newsletter platform. 
-In the second simulation (April–May), with a new team, we built a website for hiring home services. 
-In both projects, I was one of the developers responsible for the backend.`,
+            `Worked on two web development projects at No-Country, collaborating with different development teams using agile methodologies to build applications from scratch.
+In the first project (February–March), I contributed to the development of a newsletter platform.
+In the second project (April–May), I joined a new team to build a web platform for hiring home services.
+In both projects, I was one of the backend developers, contributing to API development, business logic, and database integration.`,
           technologies: ["Node.js", "MySQL", "MongoDB", "Typescript", "Express", "Rest API"],
         },
       ],
