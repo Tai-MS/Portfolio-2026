@@ -17,10 +17,9 @@ export function Experience({ language }: ExperienceProps) {
           company: "No-Country",
           period: "Febrero 2024 - Julio 2024",
           description:
-            `Formé parte de dos proyectos de desarrollo web en No-Country, trabajando en equipos de desarrollo con metodologías ágiles para construir aplicaciones desde cero.
-          En el primer proyecto (febrero–marzo), participé en el desarrollo de una plataforma de newsletter.
-          En el segundo proyecto (abril–mayo), integré un nuevo equipo para desarrollar un sitio web orientado a la contratación de servicios para el hogar.
-          En ambos proyectos, fui uno de los responsables del desarrollo backend, colaborando en el diseño de APIs, lógica de negocio e integración con la base de datos.`,
+            `Formé parte de proyectos de desarrollo web en No-Country, trabajando de manera continua entre febrero y julio en equipos de desarrollo con metodologías ágiles para construir aplicaciones desde cero.
+Durante este período, participé en el desarrollo de una plataforma de newsletter y de una aplicación web orientada a la contratación de servicios para el hogar.
+Me desempeñé como Backend Developer, colaborando en el diseño y desarrollo de APIs REST, la implementación de la lógica de negocio y la integración con bases de datos, trabajando en conjunto con equipos de frontend y diseño.`,
           technologies: ["Node.js", "MySQL", "MongoDB", "Typescript", "Express", "Rest API"],
         },
       ],
@@ -33,10 +32,9 @@ export function Experience({ language }: ExperienceProps) {
           company: "No-Country",
           period: "February 2024 - July 2024",
           description:
-            `Worked on two web development projects at No-Country, collaborating with different development teams using agile methodologies to build applications from scratch.
-In the first project (February–March), I contributed to the development of a newsletter platform.
-In the second project (April–May), I joined a new team to build a web platform for hiring home services.
-In both projects, I was one of the backend developers, contributing to API development, business logic, and database integration.`,
+            `Worked as a Backend Engineer on web development projects at No-Country from February to July, collaborating continuously with cross-functional teams using agile methodologies to build applications from scratch.
+During this period, I contributed to the development of a newsletter platform and a web application for hiring home services.
+I worked as a Backend Developer, contributing to REST API development, business logic implementation, and database integration, in close collaboration with frontend and design teams.`,
           technologies: ["Node.js", "MySQL", "MongoDB", "Typescript", "Express", "Rest API"],
         },
       ],
